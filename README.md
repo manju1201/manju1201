@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👩‍🎓 I’m a Master's Student in CS at Arizona State University
 - 💼 Looking for full-time opportunities 
-- 👯 I’m looking to collaborate on open-source projects on the MERN stack and Java SpringBoot
+- 👯 I’m looking to collaborate on open-source projects on the MERN stack and Python
 - 📫 How to reach me: mgendeti@asu.edu
 
 ## 🌐 Socials:
